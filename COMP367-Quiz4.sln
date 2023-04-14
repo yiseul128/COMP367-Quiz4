@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP367-Quiz4", "COMP367-Quiz4\COMP367-Quiz4.csproj", "{F1D29973-50CF-4042-A7B6-1D54A92A8B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D29973-50CF-4042-A7B6-1D54A92A8B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D29973-50CF-4042-A7B6-1D54A92A8B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D29973-50CF-4042-A7B6-1D54A92A8B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D29973-50CF-4042-A7B6-1D54A92A8B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8CFE36A-8612-4DDD-9889-41077463E8CA}
+	EndGlobalSection
+EndGlobal
